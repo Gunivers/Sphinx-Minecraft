@@ -7,7 +7,7 @@ name = "sphinx-minecraft"
 version = "0.1.2"
 description = "Add different Minecraft-oriented components to Sphinx."
 authors = [{ name = "theogiraudet", email = "theo.giraudet@altearn.xyz" }, { name = "Aksiome", email = "maxime.calmon@altearn.xyz" }]
-dependencies = ["sphinx", "jinja2", "sphinx-treeview @ file:///${PROJECT_ROOT}/sphinx_tree_view"]
+dependencies = ["sphinx", "jinja2", "sphinx-treeview==0.1.2"]
 requires-python = "==3.12.*"
 license = { text = "MPL-2.0" }
 readme = "README.md"
