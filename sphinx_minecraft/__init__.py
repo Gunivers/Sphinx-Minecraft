@@ -29,7 +29,7 @@ def setup(app: Sphinx):
         decorators.append(dir_type)
         logger.verbose(f"Tree decorator '{decorator.value}' added.")
     
-    app.config.stv_decorators.append(decorators)
+    app.config.stv_decorators.extend(decorators)
     app.connect("builder-inited", add_static_path)
     
     return {
