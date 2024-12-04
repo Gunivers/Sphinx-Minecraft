@@ -25,7 +25,7 @@ def setup(app: Sphinx):
     decorators = []
     
     for decorator in DectoratorRegistry:
-        dir_type = DecoratorType(decorator.value, imagesToDecoratorIcons(Path(__file__).parent / '_static' / 'images' / decorator.value, f"smc/images/treeview_icons/{decorator.value}"))
+        dir_type = DecoratorType(decorator.value, imagesToDecoratorIcons(Path(__file__).parent / '_static' / 'smc' / 'images' / 'treeview_icons' / decorator.value, f"smc/images/treeview_icons/{decorator.value}"))
         decorators.append(dir_type)
         logger.verbose(f"Tree decorator '{decorator.value}' added.")
     
