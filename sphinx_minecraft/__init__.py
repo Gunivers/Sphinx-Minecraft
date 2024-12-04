@@ -19,8 +19,7 @@ def add_static_path(app):
     
 
 def setup(app: Sphinx):
-    
-    app.setup_extension('sphinx-treeview')
+    app.setup_extension('sphinx_treeview')
     app.add_css_file('minecraft_sphinx.css')
     
     decorators = []
