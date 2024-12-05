@@ -21,4 +21,4 @@ classifiers = [
 
 [project.urls]
 Repository = "https://github.com/Gunivers/Sphinx-Minecraft/tree/main"
-Issues = "https://github.com/Gunivers/Sphinx-Minecraft/issues
+Issues = "https://github.com/Gunivers/Sphinx-Minecraft/issues"
