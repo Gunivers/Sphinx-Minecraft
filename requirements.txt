@@ -1,3 +1,2 @@
 sphinx
-jinja2
 sphinx-treeview==0.1.2
