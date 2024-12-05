@@ -141,8 +141,8 @@
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter5"
-       x="-0.065835778"
-       y="-0.037863549"
+       x="-0.065835775"
+       y="-0.037863551"
        width="1.2106745"
        height="1.1211634">
       <feFlood
@@ -203,15 +203,9 @@
      y="4.0063872"
      ry="3.65625"
      inkscape:label="Background" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0;font-family:Sono;-inkscape-font-specification:'Sono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:-1.6px;text-anchor:middle;fill:#ab0f37;stroke:#7b000e;paint-order:markers fill stroke;filter:url(#filter5)"
-     x="15.71414"
-     y="22.300735"
-     id="text1"><tspan
-       sodipodi:role="line"
-       id="tspan1"
-       x="14.91414"
-       y="22.300735"
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">I</tspan></text>
+  <path
+     style="font-size:21.3333px;line-height:0;font-family:Sono;-inkscape-font-specification:'Sono, Normal';text-align:center;letter-spacing:-1.6px;text-anchor:middle;fill:#ffffff;stroke:#ffffff;paint-order:markers fill stroke;filter:url(#filter5)"
+     d="m 12.903474,22.300735 q -0.479999,0 -0.735999,-0.181333 -0.245333,-0.181333 -0.245333,-0.501332 0,-0.341333 0.245333,-0.522666 0.256,-0.181333 0.735999,-0.181333 h 1.983997 V 10.482087 h -1.983997 q -0.479999,0 -0.735999,-0.181333 -0.245333,-0.191999 -0.245333,-0.5226654 0,-0.3306662 0.245333,-0.5013326 0.256,-0.181333 0.735999,-0.181333 h 5.631991 q 0.479999,0 0.725332,0.181333 0.256,0.1706664 0.256,0.5013326 0,0.3306664 -0.256,0.5226654 -0.245333,0.181333 -0.725332,0.181333 h -1.919997 v 10.431984 h 1.919997 q 0.479999,0 0.725332,0.181333 0.256,0.181333 0.256,0.522666 0,0.319999 -0.256,0.501332 -0.245333,0.181333 -0.725332,0.181333 z"
+     id="text1"
+     aria-label="I" />
 </svg>

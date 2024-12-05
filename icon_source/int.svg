@@ -3,7 +3,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg1"
-   sodipodi:docname="long-array.svg"
+   sodipodi:docname="int.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -65,10 +65,10 @@
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter42"
-       x="-0.025329504"
-       y="-0.029684229"
-       width="1.0810544"
-       height="1.0949895">
+       x="-0.055555643"
+       y="-0.03380287"
+       width="1.1777781"
+       height="1.1081692">
       <feFlood
          result="flood"
          in="SourceGraphic"
@@ -102,78 +102,78 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
-       id="filter3"
-       x="-0.032536976"
-       y="-0.027511204"
-       width="1.1041183"
-       height="1.0880359">
+       id="filter2"
+       x="-0.27907021"
+       y="-0.036753504"
+       width="1.8930247"
+       height="1.1176112">
       <feFlood
          result="flood"
          in="SourceGraphic"
-         flood-opacity="0.498039"
+         flood-opacity="0.501961"
          flood-color="rgb(0,0,0)"
-         id="feFlood2" />
+         id="feFlood1" />
       <feGaussianBlur
          result="blur"
          in="SourceGraphic"
          stdDeviation="0.000000"
-         id="feGaussianBlur2" />
+         id="feGaussianBlur1" />
       <feOffset
          result="offset"
          in="blur"
          dx="0.600000"
          dy="0.600000"
-         id="feOffset2" />
+         id="feOffset1" />
       <feComposite
          result="comp1"
          operator="in"
          in="flood"
          in2="offset"
-         id="feComposite2" />
+         id="feComposite1" />
       <feComposite
          result="comp2"
          operator="over"
          in="SourceGraphic"
          in2="comp1"
-         id="feComposite3" />
+         id="feComposite2" />
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
-       id="filter7"
-       x="-0.025906728"
-       y="-0.025706941"
-       width="1.0829015"
-       height="1.0822622">
+       id="filter5"
+       x="-0.065835778"
+       y="-0.037863549"
+       width="1.2106745"
+       height="1.1211634">
       <feFlood
          result="flood"
          in="SourceGraphic"
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
-         id="feFlood6" />
+         id="feFlood4" />
       <feGaussianBlur
          result="blur"
          in="SourceGraphic"
          stdDeviation="0.000000"
-         id="feGaussianBlur6" />
+         id="feGaussianBlur4" />
       <feOffset
          result="offset"
          in="blur"
          dx="0.600000"
          dy="0.600000"
-         id="feOffset6" />
+         id="feOffset4" />
       <feComposite
          result="comp1"
          operator="in"
          in="flood"
          in2="offset"
-         id="feComposite6" />
+         id="feComposite4" />
       <feComposite
          result="comp2"
          operator="over"
          in="SourceGraphic"
          in2="comp1"
-         id="feComposite7" />
+         id="feComposite5" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -186,8 +186,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="32"
-     inkscape:cx="15.609375"
-     inkscape:cy="17.484375"
+     inkscape:cx="17.671875"
+     inkscape:cy="11.828125"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="3432"
@@ -195,7 +195,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <rect
-     style="fill:#00afd9;fill-opacity:1;fill-rule:nonzero;stroke:#0387ac;stroke-opacity:1"
+     style="fill:#272cbf;fill-opacity:1;fill-rule:nonzero;stroke:#04007f;stroke-opacity:1"
      id="rect1"
      width="24.026417"
      height="23.983383"
@@ -203,9 +203,15 @@
      y="4.0063872"
      ry="3.65625"
      inkscape:label="Background" />
-  <path
-     style="font-size:20px;line-height:0;font-family:Sono;-inkscape-font-specification:'Sono, Normal';text-align:center;letter-spacing:-1px;text-anchor:middle;fill:#ffffff;stroke:#ffffff;paint-order:markers fill stroke;filter:url(#filter7)"
-     d="m 7.129282,25.397214 q -1.08,0 -1.08,-1.08 V 7.0272138 q 0,-1.08 1.08,-1.08 h 3.12 q 0.38,0 0.62,0.17 0.24,0.17 0.24,0.5 0,0.32 -0.24,0.5 -0.24,0.17 -0.62,0.17 h -2.66 V 24.047214 h 2.66 q 0.38,0 0.62,0.18 0.24,0.18 0.24,0.5 0,0.33 -0.24,0.5 -0.24,0.17 -0.62,0.17 z m 6.820019,-4.43 h 4.87 q 0.48,0 0.74,0.17 0.27,0.17 0.27,0.49 0,0.3 -0.27,0.47 -0.26,0.17 -0.74,0.17 h -5.48 q -1.08,0 -1.08,-1.08 v -10.31 q 0,-1.0900002 0.85,-1.0900002 0.84,0 0.84,1.0900002 z m 7.199987,4.43 q -0.37,0 -0.62,-0.17 -0.24,-0.17 -0.24,-0.5 0,-0.32 0.24,-0.5 0.25,-0.18 0.62,-0.18 h 2.67 V 7.2872138 h -2.67 q -0.37,0 -0.62,-0.17 -0.24,-0.18 -0.24,-0.5 0,-0.33 0.24,-0.5 0.25,-0.17 0.62,-0.17 h 3.13 q 1.07,0 1.07,1.08 V 24.317214 q 0,1.08 -1.07,1.08 z"
-     id="text6"
-     aria-label="[L]" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0;font-family:Sono;-inkscape-font-specification:'Sono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:-1.6px;text-anchor:middle;fill:#ab0f37;stroke:#7b000e;paint-order:markers fill stroke;filter:url(#filter5)"
+     x="15.71414"
+     y="22.300735"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       x="14.91414"
+       y="22.300735"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">I</tspan></text>
 </svg>

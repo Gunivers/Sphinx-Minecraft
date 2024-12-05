@@ -141,10 +141,10 @@
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter7"
-       x="-0.034507603"
-       y="-0.027923255"
-       width="1.1104243"
-       height="1.0893544">
+       x="-0.028392916"
+       y="-0.025706941"
+       width="1.0908573"
+       height="1.0822622">
       <feFlood
          result="flood"
          in="SourceGraphic"
@@ -203,16 +203,9 @@
      y="4.0141778"
      ry="3.65625"
      inkscape:label="Background" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:0;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:-2px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter7)"
-     x="15.671403"
-     y="21.275005"
-     id="text6"><tspan
-       sodipodi:role="line"
-       id="tspan6"
-       x="14.671403"
-       y="21.275005"
-       dy="0 1.2 -1.2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Sono;-inkscape-font-specification:'Sono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-2px">[I]</tspan></text>
+  <path
+     style="font-size:20px;line-height:0;font-family:Sono;-inkscape-font-specification:'Sono, Normal';text-align:center;letter-spacing:-2px;text-anchor:middle;fill:#ffffff;stroke:#ffffff;paint-order:markers fill stroke;filter:url(#filter7)"
+     d="m 7.9463807,25.405005 q -1.08,0 -1.08,-1.08 V 7.0350053 q 0,-1.08 1.08,-1.08 h 3.1200003 q 0.38,0 0.62,0.17 0.24,0.17 0.24,0.5 0,0.32 -0.24,0.5 -0.24,0.17 -0.62,0.17 H 8.4063807 V 24.055005 h 2.6600003 q 0.38,0 0.62,0.18 0.24,0.18 0.24,0.5 0,0.33 -0.24,0.5 -0.24,0.17 -0.62,0.17 z m 5.0900183,-2.93 q -0.45,0 -0.69,-0.17 -0.23,-0.17 -0.23,-0.47 0,-0.32 0.23,-0.49 0.24,-0.17 0.69,-0.17 h 1.86 v -9.78 h -1.86 q -0.45,0 -0.69,-0.17 -0.23,-0.18 -0.23,-0.49 0,-0.31 0.23,-0.47 0.24,-0.17 0.69,-0.17 h 5.28 q 0.45,0 0.68,0.17 0.24,0.16 0.24,0.47 0,0.31 -0.24,0.49 -0.23,0.17 -0.68,0.17 h -1.8 v 9.78 h 1.8 q 0.45,0 0.68,0.17 0.24,0.17 0.24,0.49 0,0.3 -0.24,0.47 -0.23,0.17 -0.68,0.17 z m 7.240008,2.93 q -0.37,0 -0.62,-0.17 -0.24,-0.17 -0.24,-0.5 0,-0.32 0.24,-0.5 0.25,-0.18 0.62,-0.18 h 2.67 V 7.2950053 h -2.67 q -0.37,0 -0.62,-0.17 -0.24,-0.18 -0.24,-0.5 0,-0.33 0.24,-0.5 0.25,-0.17 0.62,-0.17 h 3.13 q 1.07,0 1.07,1.08 V 24.325005 q 0,1.08 -1.07,1.08 z"
+     id="text6"
+     aria-label="[I]" />
 </svg>

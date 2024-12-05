@@ -103,10 +103,10 @@
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter2"
-       x="-0.070588347"
-       y="-0.036923135"
-       width="1.2258827"
-       height="1.118154">
+       x="-0.059637497"
+       y="-0.037470084"
+       width="1.19084"
+       height="1.1199043">
       <feFlood
          result="flood"
          in="SourceGraphic"
@@ -165,15 +165,9 @@
      y="4.0063872"
      ry="3.65625"
      inkscape:label="Background" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#0273f1;stroke:#0366ba;paint-order:markers fill stroke;filter:url(#filter2)"
-     x="15.488391"
-     y="22.235781"
-     id="text1"><tspan
-       sodipodi:role="line"
-       id="tspan1"
-       x="15.488391"
-       y="22.235781"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Sono;-inkscape-font-specification:'Sono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">F</tspan></text>
+  <path
+     style="font-size:21.3333px;line-height:0;font-family:Sono;-inkscape-font-specification:'Sono, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;stroke:#ffffff;paint-order:markers fill stroke;filter:url(#filter2)"
+     d="m 19.856376,9.7131338 q 0,0.3306662 -0.287999,0.5226662 -0.277333,0.181333 -0.799999,0.181333 h -5.493325 v 5.386658 h 4.58666 q 1.013331,0 1.013331,0.693332 0,0.682666 -1.013331,0.682666 h -4.58666 v 4.04266 q 0,1.151998 -0.906665,1.151998 -0.895999,0 -0.895999,-1.151998 V 10.182466 q 0,-1.1519978 1.141332,-1.1519978 h 6.154657 q 0.522666,0 0.799999,0.1813331 0.287999,0.1706664 0.287999,0.5013325 z"
+     id="text1"
+     aria-label="F" />
 </svg>

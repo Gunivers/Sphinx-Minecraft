@@ -3,7 +3,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg1"
-   sodipodi:docname="list.svg"
+   sodipodi:docname="component.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -599,6 +599,82 @@
          in2="comp1"
          id="feComposite50" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter57"
+       x="-0.023850735"
+       y="-0.027745709"
+       width="1.0763224"
+       height="1.0887863">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.501961"
+         flood-color="rgb(126,126,126)"
+         id="feFlood56" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="0.000000"
+         id="feGaussianBlur56" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.600000"
+         dy="0.600000"
+         id="feOffset56" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite56" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite57" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter59"
+       x="-0.051868592"
+       y="-0.044972639"
+       width="1.1667384"
+       height="1.1444406">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.501961"
+         flood-color="rgb(126,126,126)"
+         id="feFlood57" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="0.000000"
+         id="feGaussianBlur57" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.600000"
+         dy="0.600000"
+         id="feOffset57" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite58" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite59" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="namedview1"
@@ -609,9 +685,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="22.627417"
-     inkscape:cx="12.44066"
-     inkscape:cy="19.025592"
+     inkscape:zoom="32"
+     inkscape:cx="19.953125"
+     inkscape:cy="15.796875"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="3432"
@@ -619,7 +695,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <rect
-     style="fill:#ec6e01;fill-opacity:1;fill-rule:nonzero;stroke:#b84800;stroke-opacity:1"
+     style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b6b8bf;stroke-opacity:1"
      id="rect1"
      width="24.026417"
      height="23.983383"
@@ -627,52 +703,47 @@
      y="4.0063872"
      ry="3.65625"
      inkscape:label="Background" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:0;font-family:'Bell MT';-inkscape-font-specification:'Bell MT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:-1.6px;text-anchor:middle;fill:#7e7e7e;fill-opacity:1;stroke:#7e7e7e;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter57)"
+     x="15.712558"
+     y="21.333361"
+     id="text54"><tspan
+       sodipodi:role="line"
+       id="tspan54"
+       x="14.912559"
+       y="21.333361"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Sono;-inkscape-font-specification:'Sono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-1.6px;fill:#7e7e7e;fill-opacity:1;stroke:#7e7e7e;stroke-opacity:1">{  }</tspan></text>
   <g
-     id="g1">
+     id="g57"
+     transform="translate(0.59394372,-0.467266)"
+     style="filter:url(#filter59)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.03201;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter46)"
-       id="rect30"
-       width="15.086679"
-       height="1.3426127"
-       x="10.01399"
-       y="9.7173977"
-       ry="0.67130637" />
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.816154;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter44)"
-       id="ellipse30"
-       cx="7.0622416"
-       cy="10.388659"
-       rx="0.80360162"
-       ry="0.78195727" />
+       style="fill:#ee0022;fill-opacity:1;stroke:#ee0022;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect57-00"
+       width="4.6875"
+       height="4.75"
+       x="16.09046"
+       y="2.0307155"
+       ry="0.90625"
+       transform="rotate(32.234614)" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.03201;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter38)"
-       id="rect33"
-       width="15.086679"
-       height="1.3426127"
-       x="10.01399"
-       y="15.326773"
-       ry="0.67130637" />
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.816154;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter36)"
-       id="ellipse33"
-       cx="7.0622416"
-       cy="15.998034"
-       rx="0.80360162"
-       ry="0.78195727" />
+       style="fill:#0018b7;fill-opacity:1;stroke:#0018b7;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect57-0"
+       width="4.6875"
+       height="4.75"
+       x="13.340838"
+       y="16.23077"
+       ry="0.90625"
+       transform="rotate(-5.6174528)" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.03201;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter50)"
-       id="rect34"
-       width="15.086679"
-       height="1.3426127"
-       x="10.01399"
-       y="20.936148"
-       ry="0.67130637" />
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.816154;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter48)"
-       id="ellipse34"
-       cx="7.0622416"
-       cy="21.607409"
-       rx="0.80360162"
-       ry="0.78195727" />
+       style="fill:#2ac907;fill-opacity:1;stroke:#2ac907;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect57"
+       width="4.6875"
+       height="4.75"
+       x="4.5460367"
+       y="20.015921"
+       ry="0.90625"
+       transform="rotate(-19.025152)" />
   </g>
 </svg>

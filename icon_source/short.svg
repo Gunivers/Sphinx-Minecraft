@@ -65,10 +65,10 @@
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter42"
-       x="-0.048175822"
-       y="-0.036880468"
-       width="1.1541626"
-       height="1.1180175">
+       x="-0.060301603"
+       y="-0.036036093"
+       width="1.1929651"
+       height="1.1153155">
       <feFlood
          result="flood"
          in="SourceGraphic"
@@ -127,11 +127,17 @@
      y="4.6278834"
      ry="3.65625"
      inkscape:label="Background" />
-  <path
-     style="font-size:21.3333px;font-family:Sono;-inkscape-font-specification:'Sono, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;paint-order:markers fill stroke;filter:url(#filter42)"
-     d="m 15.676244,23.105099 q -1.631998,0 -2.826663,-0.490666 -1.183998,-0.490665 -1.87733,-1.247998 -0.511999,-0.437332 -0.511999,-0.981331 0,-0.288 0.213333,-0.512 0.213333,-0.234666 0.575999,-0.234666 0.319999,0 0.565332,0.16 0.245333,0.16 0.469333,0.405333 0.501332,0.639999 1.333331,1.077331 0.842665,0.426666 2.090663,0.426666 0.853332,0 1.599998,-0.266666 0.746665,-0.266666 1.205331,-0.767999 0.469333,-0.501332 0.469333,-1.194665 0,-1.023998 -0.917332,-1.599997 -0.917332,-0.586666 -2.666662,-1.045332 -2.346663,-0.597332 -3.466662,-1.525331 -1.109331,-0.927998 -1.109331,-2.431996 0,-1.045332 0.671999,-1.791997 0.671999,-0.746665 1.791997,-1.1413315 1.119998,-0.3946661 2.474663,-0.3946661 1.311998,0 2.399996,0.4373327 1.098665,0.4373329 1.749331,1.1946649 0.234666,0.202666 0.362666,0.437332 0.127999,0.224 0.127999,0.490666 0,0.330667 -0.223999,0.533333 -0.213333,0.192 -0.522666,0.192 -0.309333,0 -0.565333,-0.181333 -0.245332,-0.192 -0.426666,-0.405333 -0.394666,-0.554666 -1.151998,-0.927999 -0.757332,-0.373332 -1.81333,-0.373332 -0.799999,0 -1.493331,0.234666 -0.682666,0.223999 -1.109332,0.650665 -0.415999,0.426666 -0.415999,1.023999 0,0.895998 0.821332,1.450664 0.821332,0.543999 2.506663,1.013332 1.567997,0.426666 2.645329,0.959998 1.077331,0.522666 1.631997,1.269332 0.554666,0.746665 0.554666,1.834664 0,1.162664 -0.693332,2.00533 -0.693332,0.831998 -1.866664,1.279998 -1.173331,0.437332 -2.602662,0.437332 z"
-     id="text40"
-     aria-label="S" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#b11140;fill-opacity:1;stroke:#7f0008;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter42)"
+     x="15.564254"
+     y="22.8811"
+     id="text40"><tspan
+       sodipodi:role="line"
+       id="tspan40"
+       x="15.564254"
+       y="22.8811"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Sono;-inkscape-font-specification:'Sono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">S</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0;font-family:Sono;-inkscape-font-specification:'Sono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ab0f37;stroke:#7b000e;paint-order:markers fill stroke"
@@ -139,5 +145,5 @@
      y="3"
      id="text1"><tspan
        sodipodi:role="line"
-       id="tspan1" /></text>
+       id="tspan1"></tspan></text>
 </svg>

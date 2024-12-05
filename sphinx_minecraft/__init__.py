@@ -20,13 +20,12 @@ def add_static_path(app):
 
 def setup(app: Sphinx):
     app.setup_extension('sphinx_treeview')
-    app.add_css_file('minecraft_sphinx.css')
     
     decorators = []
     
     for decorator in DectoratorRegistry:
-        dir_type = DecoratorType(decorator.value, imagesToDecoratorIcons(Path(__file__).parent / '_static' / 'smc' / 'images' / 'treeview_icons' / decorator.value, f"smc/images/treeview_icons/{decorator.value}"))
-        decorators.append(dir_type)
+        decorator_type = DecoratorType(decorator.value, imagesToDecoratorIcons(Path(__file__).parent / '_static' / 'smc' / 'images' / 'treeview_icons' / decorator.value, f"smc/images/treeview_icons/{decorator.value}"))
+        decorators.append(decorator_type)
         logger.verbose(f"Tree decorator '{decorator.value}' added.")
     
     app.config.stv_decorators.extend(decorators)

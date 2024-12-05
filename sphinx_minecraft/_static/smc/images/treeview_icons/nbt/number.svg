@@ -65,10 +65,10 @@
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter42"
-       x="-0.049079832"
-       y="-0.036838124"
-       width="1.1570555"
-       height="1.117882">
+       x="-0.051624531"
+       y="-0.037291227"
+       width="1.1651985"
+       height="1.1193319">
       <feFlood
          result="flood"
          in="SourceGraphic"
@@ -127,15 +127,9 @@
      y="4.0063872"
      ry="3.65625"
      inkscape:label="Background" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#b11140;fill-opacity:1;stroke:#7f0008;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter42)"
-     x="15.739595"
-     y="22.277714"
-     id="text40"><tspan
-       sodipodi:role="line"
-       id="tspan40"
-       x="15.739595"
-       y="22.277714"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Sono;-inkscape-font-specification:'Sono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">N</tspan></text>
+  <path
+     style="font-size:21.3333px;font-family:Sono;-inkscape-font-specification:'Sono, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;paint-order:markers fill stroke;filter:url(#filter42)"
+     d="m 11.723597,22.405714 q -0.831999,0 -0.831999,-1.109332 V 10.149733 q 0,-0.5546659 0.32,-0.8533321 0.319999,-0.2986661 0.863998,-0.2986661 h 0.032 q 0.48,0 0.799999,0.2453329 0.330666,0.2453329 0.575999,0.6933322 l 5.439992,9.6639851 v -9.482652 q 0,-1.1199982 0.831998,-1.1199982 0.384,0 0.597333,0.2879995 0.223999,0.2773329 0.223999,0.8319987 v 11.146649 q 0,0.543999 -0.266666,0.842665 -0.266666,0.298667 -0.810665,0.298667 h -0.02133 q -0.479999,0 -0.789332,-0.234667 -0.309333,-0.245333 -0.554666,-0.703999 l -5.610657,-9.877317 v 9.706651 q 0,1.109332 -0.799999,1.109332 z"
+     id="text40"
+     aria-label="N" />
 </svg>

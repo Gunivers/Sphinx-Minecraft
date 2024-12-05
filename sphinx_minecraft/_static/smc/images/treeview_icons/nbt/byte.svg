@@ -103,10 +103,10 @@
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter2"
-       x="-0.05627207"
-       y="-0.03709434"
-       width="1.1800706"
-       height="1.1187019">
+       x="-0.052966186"
+       y="-0.037863551"
+       width="1.1694918"
+       height="1.1211634">
       <feFlood
          result="flood"
          in="SourceGraphic"
@@ -165,15 +165,9 @@
      y="4.0063872"
      ry="3.65625"
      inkscape:label="Background" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;stroke:#ffffff;paint-order:markers fill stroke;filter:url(#filter2)"
-     x="15.700735"
-     y="22.306829"
-     id="text1"><tspan
-       sodipodi:role="line"
-       id="tspan1"
-       x="15.700735"
-       y="22.306829"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Sono;-inkscape-font-specification:'Sono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">B</tspan></text>
+  <path
+     style="font-size:21.3333px;line-height:0;font-family:Sono;-inkscape-font-specification:'Sono, Normal';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;stroke:#ffffff;paint-order:markers fill stroke;filter:url(#filter2)"
+     d="m 17.562075,15.405507 q 0.192,0 0.650666,0.138666 0.469332,0.138667 0.970665,0.490666 0.511999,0.341333 0.874665,0.981332 0.362666,0.629332 0.362666,1.621331 0,1.226665 -0.543999,2.047997 -0.533332,0.810665 -1.557331,1.215998 -1.023998,0.405332 -2.506662,0.405332 H 12.13275 q -1.151998,0 -1.151998,-1.151998 V 10.253515 q 0,-1.151998 1.151998,-1.151998 h 3.135995 q 1.269332,0 2.335997,0.2559996 1.077331,0.2559996 1.71733,0.9493314 0.650666,0.693333 0.650666,2.026664 0,0.927998 -0.298666,1.525331 -0.298666,0.597332 -0.725332,0.938665 -0.426666,0.330666 -0.821332,0.469333 -0.394667,0.138666 -0.565333,0.138666 z m -4.778659,-4.917326 v 4.383994 h 2.826662 q 0.778666,0 1.354665,-0.266667 0.586665,-0.277333 0.906665,-0.778665 0.319999,-0.511999 0.319999,-1.237332 0,-0.863998 -0.394666,-1.311997 -0.394666,-0.458666 -1.066665,-0.618666 -0.671999,-0.170667 -1.493331,-0.170667 z m 2.517329,10.431984 q 1.685331,0 2.474663,-0.597332 0.799999,-0.607999 0.799999,-1.834664 0,-1.247998 -0.842666,-1.791997 -0.831998,-0.554666 -2.03733,-0.554666 h -2.911995 v 4.778659 z"
+     id="text1"
+     aria-label="B" />
 </svg>

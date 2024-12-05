@@ -627,52 +627,49 @@
      y="4.0063872"
      ry="3.65625"
      inkscape:label="Background" />
-  <g
-     id="g1">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.03201;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter46)"
-       id="rect30"
-       width="15.086679"
-       height="1.3426127"
-       x="10.01399"
-       y="9.7173977"
-       ry="0.67130637" />
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.816154;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter44)"
-       id="ellipse30"
-       cx="7.0622416"
-       cy="10.388659"
-       rx="0.80360162"
-       ry="0.78195727" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.03201;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter38)"
-       id="rect33"
-       width="15.086679"
-       height="1.3426127"
-       x="10.01399"
-       y="15.326773"
-       ry="0.67130637" />
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.816154;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter36)"
-       id="ellipse33"
-       cx="7.0622416"
-       cy="15.998034"
-       rx="0.80360162"
-       ry="0.78195727" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.03201;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter50)"
-       id="rect34"
-       width="15.086679"
-       height="1.3426127"
-       x="10.01399"
-       y="20.936148"
-       ry="0.67130637" />
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.816154;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter48)"
-       id="ellipse34"
-       cx="7.0622416"
-       cy="21.607409"
-       rx="0.80360162"
-       ry="0.78195727" />
-  </g>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.03201;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter46)"
+     id="rect30"
+     width="15.086679"
+     height="1.3426127"
+     x="10.01399"
+     y="9.7173977"
+     ry="0.67130637" />
+  <ellipse
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.816154;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter44)"
+     id="ellipse30"
+     cx="7.6367664"
+     cy="10.388659"
+     rx="0.80360162"
+     ry="0.78195727" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.03201;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter38)"
+     id="rect33"
+     width="15.086679"
+     height="1.3426127"
+     x="10.01399"
+     y="15.326773"
+     ry="0.67130637" />
+  <ellipse
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.816154;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter36)"
+     id="ellipse33"
+     cx="7.6367664"
+     cy="15.998034"
+     rx="0.80360162"
+     ry="0.78195727" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.03201;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter50)"
+     id="rect34"
+     width="15.086679"
+     height="1.3426127"
+     x="10.01399"
+     y="20.936148"
+     ry="0.67130637" />
+  <ellipse
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.816154;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter48)"
+     id="ellipse34"
+     cx="7.6367664"
+     cy="21.607409"
+     rx="0.80360162"
+     ry="0.78195727" />
 </svg>
