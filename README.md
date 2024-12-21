@@ -20,7 +20,7 @@ extensions = [
 
 ### Tree views
 
-These components are based on [sphinx-treeview](https://github.com/jupyter-sphinx/sphinx-treeview).
+These components are based on [sphinx-treeview](https://github.com/Altearn/Sphinx-Tree-View).
 
 #### Minecraft directory tree
 **Usage:**

@@ -1,2 +1,2 @@
 sphinx
-sphinx-treeview==0.1.2
+sphinx-treeview==1.0.1
