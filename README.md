@@ -40,7 +40,7 @@ These components are based on [sphinx-treeview](https://github.com/jupyter-sphin
 ```
 **Result:**
 
-![Minecraft directory tree](imgs/mcdir.png)
+![Minecraft directory tree](https://raw.githubusercontent.com/Gunivers/Sphinx-Minecraft/main/imgs/mcdir.png)
 
 #### NBT tree
 **Usage:**
@@ -66,7 +66,7 @@ These components are based on [sphinx-treeview](https://github.com/jupyter-sphin
 ```
 **Result:**
 
-![Minecraft NBT tree](imgs/nbt.png)
+![Minecraft NBT tree](https://raw.githubusercontent.com/Gunivers/Sphinx-Minecraft/main/imgs/nbt.png)
 
 # License
 
