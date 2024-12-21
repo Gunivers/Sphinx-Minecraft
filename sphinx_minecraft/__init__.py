@@ -1,4 +1,5 @@
 from enum import Enum
+import importlib
 import os
 from pathlib import Path
 from sphinx.util import logging
@@ -7,7 +8,7 @@ from sphinx_treeview.decorator import DecoratorType, imagesToDecoratorIcons
 
 logger = logging.getLogger(__name__)
 
-__version__ = "0.1.0"
+__version__ = importlib.metadata.version('sphinx-minecraft')
 
 class DectoratorRegistry(Enum):
     MCDIR = "mcdir"
@@ -33,6 +34,8 @@ def setup(app: Sphinx):
     
     return {
         "version": __version__,
+        'parallel_read_safe': True,
+        'parallel_write_safe': True,
     }
     
     
