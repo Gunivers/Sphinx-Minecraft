@@ -2,5 +2,5 @@ __pycache__
 .pdm-build
 .pdm-python
 .venv/
-dist/
-pdm.lock
+/build
+/dist
