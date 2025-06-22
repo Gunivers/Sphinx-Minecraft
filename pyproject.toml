@@ -4,7 +4,7 @@ build-backend = "pdm.backend"
 
 [project]
 name = "sphinx-minecraft"
-version = "1.0.2"
+version = "1.0.3"
 description = "Add different Minecraft-oriented components to Sphinx."
 authors = [{ name = "theogiraudet", email = "theo.giraudet@altearn.xyz" }, { name = "Aksiome", email = "maxime.calmon@altearn.xyz" }]
 dependencies = ["sphinx", "sphinx-treeview==1.1.0"]
