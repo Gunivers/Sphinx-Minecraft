@@ -5,7 +5,7 @@
 groups = ["default"]
 strategy = ["inherit_metadata"]
 lock_version = "4.5.0"
-content_hash = "sha256:0a7e2451e4879bc51fcd78f1f2e3198063b808b128b652526345414818c5cf23"
+content_hash = "sha256:d8ba09d04778fee4adcced0e88a4b873eb560bc87ccae38577121e1bfcd424ba"
 
 [[metadata.targets]]
 requires_python = ">=3.11"
@@ -298,7 +298,7 @@ files = [
 
 [[package]]
 name = "sphinx-treeview"
-version = "1.1.0"
+version = "1.1.1"
 requires_python = ">=3.11"
 summary = "Add support for tree view to Sphinx."
 groups = ["default"]
@@ -307,8 +307,8 @@ dependencies = [
     "sphinx",
 ]
 files = [
-    {file = "sphinx_treeview-1.1.0-py3-none-any.whl", hash = "sha256:381e5940a072ed6e6f6a3e3d30592383d07c56e54182aa4dead71ab5efa3fea8"},
-    {file = "sphinx_treeview-1.1.0.tar.gz", hash = "sha256:24dfad8cb8e6f1e6f462a67870f8c7a0a5691245ad67e81b6762f0a646585a56"},
+    {file = "sphinx_treeview-1.1.1-py3-none-any.whl", hash = "sha256:281a3b25185bc52e38a5c37dd83732466b34967b994a0c5c034ceeeb4b2f7136"},
+    {file = "sphinx_treeview-1.1.1.tar.gz", hash = "sha256:0d93c1265cc58190714a2800cdd72580f370a8b580479dca7a5883a222fa3a6f"},
 ]
 
 [[package]]
